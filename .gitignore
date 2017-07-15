@@ -5,4 +5,5 @@
 /project/target/
 /target/
 .ensime_cache/
-/lib/
+/lib/*.jar
+/lib/native/*.so
